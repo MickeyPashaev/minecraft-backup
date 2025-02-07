@@ -2475,5 +2475,11 @@
     },
     "done": true
   },
+  "minecraft:adventure/spyglass_at_parrot": {
+    "criteria": {
+      "spyglass_at_parrot": "2025-02-08 02:11:35 +0300"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }
