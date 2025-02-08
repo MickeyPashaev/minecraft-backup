@@ -1939,9 +1939,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/flower_banner_pattern": {
+  "minecraft:recipes/redstone/dispenser": {
     "criteria": {
-      "has_oxeye_daisy": "2025-02-08 00:21:13 +0300"
+      "has_bow": "2025-02-07 23:17:28 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-02-07 23:18:00 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-02-07 23:40:21 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-02-07 23:40:40 +0300"
     },
     "done": true
   },
@@ -1957,21 +1975,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
+  "minecraft:recipes/decorations/black_banner": {
     "criteria": {
-      "shot_arrow": "2025-02-07 23:18:00 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-02-07 23:40:40 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-02-07 23:17:28 +0300"
+      "has_black_wool": "2025-02-08 00:16:42 +0300"
     },
     "done": true
   },
@@ -1987,15 +1993,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_banner": {
+  "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
-      "has_black_wool": "2025-02-08 00:16:42 +0300"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2025-02-07 23:40:21 +0300"
+      "has_oxeye_daisy": "2025-02-08 00:21:13 +0300"
     },
     "done": true
   },
